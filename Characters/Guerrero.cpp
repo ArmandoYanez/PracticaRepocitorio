@@ -7,8 +7,8 @@
 
 // Contructor default
 Guerrero::Guerrero() : Personaje(), Inventario(){
-    arma = "N/A";
-    danoPorAtaque = 0;
+    this->arma = "N/A";
+    this->danoPorAtaque = 0;
 }
 
 //Constructor por paramertos

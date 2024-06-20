@@ -7,8 +7,8 @@
 
 // Contructor default
 Magos::Magos() : Personaje(), Inventario(){
-    tipoDeHechizo = "N/A";
-    cantMana = 0;
+    this->tipoDeHechizo = "N/A";
+    this->cantMana = 0;
 }
 
 //Constructor por paramertos
