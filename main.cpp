@@ -79,6 +79,17 @@ int main() {
     //Nueva resolucion de 1080:
     confi->SetResolucion(1080);
 
+    //Vaciar memoria
+    delete confi;
+    delete inventario;
+    delete espadaSuperMortal;
+    delete pocionAlientoAcola;
+    delete cura;
+    delete bola;
+    delete orquin;
+    delete goblini;
+    delete paul;
+    delete pau2;
 }
 
 //Crear clase abstracta personaje de videojuego

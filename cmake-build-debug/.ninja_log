@@ -31,3 +31,10 @@
 81	445	7404634413451808	CMakeFiles/Ejercicios.dir/item/Pocion.cpp.obj	35aef1d351b66999
 40	542	7404634414417087	CMakeFiles/Ejercicios.dir/item/Inventario.cpp.obj	6492a870ef78018c
 543	635	7404634415313170	Ejercicios.exe	ddfc2d442ad07fe1
+10	282	7405490383835122	CMakeFiles/Ejercicios.dir/Characters/Guerrero.cpp.obj	808076a2972087f1
+4	284	7405490383865124	CMakeFiles/Ejercicios.dir/Characters/Magos.cpp.obj	bc0e7e41767ec31e
+284	388	7405490384865125	Ejercicios.exe	ddfc2d442ad07fe1
+4	308	7405490992385513	CMakeFiles/Ejercicios.dir/main.cpp.obj	e0f231b213c7e62f
+308	403	7405490993305508	Ejercicios.exe	ddfc2d442ad07fe1
+4	311	7405496223785314	CMakeFiles/Ejercicios.dir/main.cpp.obj	e0f231b213c7e62f
+312	405	7405496224705685	Ejercicios.exe	ddfc2d442ad07fe1
